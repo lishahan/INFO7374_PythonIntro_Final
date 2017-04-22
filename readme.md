@@ -43,7 +43,7 @@ Here is the how my download data file looks like.
 
 I extract all the tweets I collected from the raw data and store them as a list in a .json file. Get the information of users info, tweets, location, country and other data I will use in the future analysis and store them in a .csv and a .txt file.
 
-<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/screenshot/data_clean" alt="Data_5"/>
+<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/screenshot/data_clean.png" alt="Data_5"/>
 
 
 ## Analysis Details
