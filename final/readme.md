@@ -23,7 +23,7 @@ My researh topics are:<br/>
 
 I used the Twitter Search API to fetch the latest tweets. 
 
-The keywords I use is mainly about the recent UA3411 incident. 100 tweets per .json file. The UA3411 Incident happened on Apr 9th 2017. Timing is perfect. I get data from Apr 7th to current date to make comparison. Since the Twitter Search API only provide tweets from the past week and 450 request per 15mins, I request data many times a day. 
+The keywords I use is mainly about the recent UA3411 incident. 100 tweets per .json file. The UA3411 Incident happened on Apr 9th 2017. Timing is perfect. I get data from Apr 7th to current date to make comparison. Since the Twitter Search API only provide tweets from the past week and 450 request per 15mins, I request data many times a day. The total size of raw data is 400MB.
 
 For the last analysis, I combined many different datasets together. One of thme is the data I fetched the sentiment_labelled_sentences from sentiment analysis library. And one of them is the NLTK movie review libiray. These datasets include labelled sentences from amazon, NLTK movie reviews, IMDB and yelp. It is used to train my classifier.
 
