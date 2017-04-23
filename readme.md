@@ -170,15 +170,15 @@ You need to install these libraries to run the code
 - Twitter
 - textblob
 
-Basemap
+-Basemap
 1. Download basemap from this link:https://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/basemap-1.0.7/
 2. cd to the top level basemap directory (basemap-X.Y.Z) and run the usual python setup.py install. Check your installation by running from mpl_toolkits.basemap import Basemap at the python prompt.
 3. To test, cd to the examples directory and run python simpletest.py. To run all the examples (except those that have extra dependencies or require an internet connection), execute python run_all.py.
 
-Twitter
+-Twitter
 1.just run $ pip install python-twitter in terminal
 
-textblob
+-textblob
 1. run the following code:
 $ pip install -U textblob
 $ python -m textblob.download_corpora
