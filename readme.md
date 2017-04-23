@@ -89,7 +89,7 @@ In this analysis. I want to find out more relation between user history and retw
 5. Group retweet count by year.
 <img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample7.png" alt="sample7"/>
 6. Plot a fig to show the relation.
-<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/relation1.png" alt="relation1"/>
+<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/ralation1.png" alt="relation1"/>
 
 <b>Conclusion:</b>The trending plot shows that older user doesnt't get much retweet. The count of retweets rises with time going. More recent created user got more retweet. The peak is year of 2014. This group of people are young and care about the trending news. They got more retweets than the other users. 
 
