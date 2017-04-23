@@ -132,7 +132,7 @@ It is a process of machine learning. To train a good classifier, this process to
 ### Test the accuracy of classifier. </b>
 There are several important parameters to reflec the accuracy of a classifier. I used positive and negative precistion, recall rate and f-measure metrics.
 1. Build a tester.
-<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample13png" alt="sample13"/>
+<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample13.png" alt="sample13"/>
 2. Test the accuracy of my classifier.
 <img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample14.png" alt="sample14"/>
 
