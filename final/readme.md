@@ -89,7 +89,7 @@ In this analysis. I want to find out more relation between user history and retw
 5. Group retweet count by year.
 <img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample7.png" alt="sample7"/>
 6. Plot a fig to show the relation.
-<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/relation1.png" alt="relation1"/>
+<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/ralation1.png" alt="relation1"/>
 
 <b>Conclusion:</b>The trending plot shows that older user doesnt't get much retweet. The count of retweets rises with time going. More recent created user got more retweet. The peak is year of 2014. This group of people are young and care about the trending news. They got more retweets than the other users. 
 
@@ -132,7 +132,7 @@ It is a process of machine learning. To train a good classifier, this process to
 ### Test the accuracy of classifier. </b>
 There are several important parameters to reflec the accuracy of a classifier. I used positive and negative precistion, recall rate and f-measure metrics.
 1. Build a tester.
-<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample13png" alt="sample13"/>
+<img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample13.png" alt="sample13"/>
 2. Test the accuracy of my classifier.
 <img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/sample14.png" alt="sample14"/>
 
@@ -163,6 +163,26 @@ This research will show people's attitude trending by days. This will be reflect
 <img src="https://github.com/lishahan/INFO7374_PythonIntro_Final/blob/master/final/screenshot/posandneg1.png" alt="posandneg1"/>
 
 <b>Conclusion:</b>Over this reserch, we can see that before Apr 4th 2017, there were not many tweets about this incident. After 9th, since the doctor got dragged down to the airplane video was widely spread, more and more people are tweeting about this incident. The negative tweets keeps rising cause the United Airline didn't apologise about this violent incident at all. The count of tweets may drop a little bit and the positive tweets rise a little because the CEO of the United Airline finally make an propriate apology about this incident on 16th Apr. After all, The negative tweets are still more than the positive tweets. This is not suprising. This may cause us to check its culture again. United airline does need a good public coordinator. Only better service can win customers. Maybe in the future most of the tweets about United Airline will be positive. 
+
+## Addtional Instructions to Run the code
+You need to install these libraries to run the code
+- Basemap
+- Twitter
+- textblob
+
+-Basemap
+1. Download basemap from this link:https://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/basemap-1.0.7/
+2. cd to the top level basemap directory (basemap-X.Y.Z) and run the usual python setup.py install. Check your installation by running from mpl_toolkits.basemap import Basemap at the python prompt.
+3. To test, cd to the examples directory and run python simpletest.py. To run all the examples (except those that have extra dependencies or require an internet connection), execute python run_all.py.
+
+-Twitter</b>
+1.just run $ pip install python-twitter in terminal
+
+-textblob
+1. run the following code:
+$ pip install -U textblob
+$ python -m textblob.download_corpora
+
 
 
 ## Thank you for reviewing my research. I did put lots of effort and thought in it. I havest a good practice and extention of all the knowlege of Python. Learned a lot from this course. Thanks again. 
